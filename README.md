@@ -1,4 +1,4 @@
-# SeleniumLoginRegistrationPOM
+# SeleniumLoginRegistration
 This is a selenium template for testing any login and registration function of any system (udemy here as an example). This is created to automate the testing and run all the prepared test cases with all possible scenerios.
 
 
